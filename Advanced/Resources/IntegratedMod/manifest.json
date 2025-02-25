@@ -1,0 +1,12 @@
+{
+	"Name": "Turn Mod",
+	"Version": "1.0",
+	"UseAllDLLs": true,
+	"IncludedDLLs": [],
+	"ExcludedDLLs": [],
+	"BurstDLLs": [
+		"lib_burst_generated.dll"
+	],
+	"Enabled": true,
+	"ModPriority": 0
+}
